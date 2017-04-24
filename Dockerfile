@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /usr/share/nginx/html
+COPY logo.svg index.html /usr/share/nginx/html/
